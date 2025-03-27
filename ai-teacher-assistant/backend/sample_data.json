@@ -1,0 +1,15 @@
+{
+    "knowledge_base": {
+      "grading": "Assignments are automatically graded using AI algorithms that evaluate content quality, structure, and accuracy.",
+      "deadlines": "All assignments are due by 11:59 PM on their respective due dates. Late submissions receive a 10% penalty per day.",
+      "materials": "Course materials are available in the LMS under the 'Resources' section."
+    },
+    "dashboard_stats": {
+      "avg_grade": 82,
+      "trend": "up",
+      "change": 5,
+      "assignments_graded": 24,
+      "questions_answered": 37,
+      "top_student": "Alex Johnson (94%)"
+    }
+  }
